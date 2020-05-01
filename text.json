@@ -1,0 +1,28 @@
+{
+    "team": [
+        {
+          "team__name": "Deborah Williamson",
+          "team__prof": "Dog psychologist / Vet Surgeon",
+          "par1": "Deborah graduated from Bristol University in 2016 with a BSc in Pet Psychology and her veterinary degree. She completed an internship with Porman Veterinary Group in August 2017.",
+          "par2": "'I trmendously adore dogs! I actually have 5 at home and love each of them more than anything!'"
+        },
+        {
+            "team__name": "Paul Torkelson",
+            "team__prof": "Dog physiotherapist / Dog sitter",
+            "par1": "Paul graduated from the University of Edinburgh in 2004 and have worked in various roles both in the Veterinary Physiotherapy industry. He have recently joined the Portman's team and is enjoying the challenges this role brings.",
+            "par2": "'Can you imagine how much i love dogs? No? Me neither!'"
+        },
+        {
+            "team__name": "Dan Maddison",
+            "team__prof": "Dog dietist / Dog trainer",
+            "par1": "Dan qualified with a foundation degree in Veterinary Nursing from Askham Bryan College in 2012 and a few months later joined the Portman Veterinary Group. He also graduated with diploma in Pet Nutrition in 2014.",
+            "par2": "'Animals play a big part in my life and I am slightly dog crazy.....To say the least!'"
+        },
+        {
+            "team__name": "Whilliam Carlson",
+            "team__prof": "Dog dietist / Dog sitter",
+            "par1": "Whilliam studied Animal Management Level 2 and Level 3 at Askham Bryan college for 4 years and then joined the Portman's team as Pet Nutritionist.",
+            "par2": "'I love my job 'cause I love dogs. Sometimes it seems to me that my wife will run away from me, 'cause I have brought home 6 dogs already.'"
+        }
+      ]
+    }
